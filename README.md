@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+biancabeyou/biancabeyou is a long name, started with the Github course and will read more in the docs 😄
+I am looking for a way to publish my site to ipfs, that is my project now.
+And maybe I should change my name to a shorter one, if only I knew how...
+
 <!--
 **biancabeyou/biancabeyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
